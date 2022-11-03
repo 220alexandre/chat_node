@@ -1,0 +1,15 @@
+{
+  "name": "chat_node",
+  "version": "1.0.0",
+  "description": "Chat feito com node e socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Sampaio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
